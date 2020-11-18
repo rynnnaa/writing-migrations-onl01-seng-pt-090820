@@ -1,1 +1,1 @@
-class AddGradeAndBirthdateToStudents < Migrations
+class AddGradeAndBirthdateToStudents < ActiceRecord:: Migration[5.2]
